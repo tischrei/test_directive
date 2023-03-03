@@ -1,1 +1,1 @@
-import otc_directive.setup
+from otc_directives.otc_directive import setup
