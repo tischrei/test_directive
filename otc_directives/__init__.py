@@ -1,1 +1,1 @@
-from test_directive import setup
+from otc_directive import setup
