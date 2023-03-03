@@ -27,7 +27,7 @@ class hello_world(nodes.General, nodes.Element):
 
 
 class HelloWorld(Directive):
-    node_class = service_docs
+    node_class = hello_world
     option_spec = {
         # 'service_type': directives.unchanged_required,
     }
